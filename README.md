@@ -185,14 +185,14 @@ Instead of stitching together 5+ tools, use an all-in-one platform:
 
 | Need | Separate Tools | All-in-One ([Tenant.so](https://tenant.so)) |
 |------|---------------|------|
-| Community | Circle ($89/mo) | Included |
-| Courses | Teachable ($59/mo) | Included |
+| Community | Circle ($89/mo + 2% txn fee) | Included |
+| Courses | Teachable ($89/mo Builder) | Included |
 | Email | ConvertKit ($79/mo) | Included |
 | Chat | Discord (free) | Included |
 | Automation | Zapier ($49/mo) | Included |
 | Events | Luma (free) | Included |
 | Gamification | Custom dev | Included |
-| **Total** | **$276+/mo** | **One platform** |
+| **Total** | **$306+/mo (before txn fees)** | **One platform** |
 
 ### Essential Integrations
 
